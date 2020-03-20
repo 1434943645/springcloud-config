@@ -9,6 +9,6 @@ spring:
        name: config-dev
 ---
 spring: 
-  profiles: dev
+  profiles: test
   application: 
        name: config-test       
